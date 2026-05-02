@@ -1,11 +1,11 @@
-# 📄 RAG PDF Chatbot
+#  RAG PDF Chatbot
 
 Ask questions about any PDF document using Retrieval-Augmented Generation.  
 Powered by **Groq** (LLaMA 3.3 70B), **LangChain**, **FAISS**, and **sentence-transformers**.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Upload any text-based PDF and index it in seconds
 - Ask natural language questions — answers are grounded in the document
@@ -15,7 +15,7 @@ Powered by **Groq** (LLaMA 3.3 70B), **LangChain**, **FAISS**, and **sentence-tr
 
 ---
 
-## 🚀 How to Run (step-by-step)
+##  How to Run (step-by-step)
 
 ### Step 1 — Create a virtual environment
 
@@ -66,7 +66,7 @@ Open **http://localhost:8501** in your browser.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 rag-pdf-chatbot/
@@ -81,7 +81,7 @@ rag-pdf-chatbot/
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 User types question
@@ -124,7 +124,7 @@ User types question
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 All settings live in `config.py`:
 
