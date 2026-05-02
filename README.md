@@ -80,6 +80,8 @@ rag-pdf-chatbot/
 ```
 
 ---
+## Demo
+![App Screenshot](assets/desktop.png)
 
 ##  Architecture
 
