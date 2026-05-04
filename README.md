@@ -141,7 +141,7 @@ All settings live in `config.py`:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Library |
 |:---|:---|
@@ -156,7 +156,7 @@ All settings live in `config.py`:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - [ ] Multi-PDF support
 - [ ] Streaming responses with `st.write_stream`
